@@ -1,8 +1,8 @@
 # Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/durgadas/count.svg)](https://www.katacoda.com/durgadas "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/imdurgadas/count.svg)](https://www.katacoda.com/imdurgadas "Get your profile on Katacoda.com")
 
-Visit https://www.katacoda.com/durgadas to view the profile and interactive scenarios
+Visit https://www.katacoda.com/imdurgadas to view the profile and interactive scenarios
 
 ### Writing Scenarios
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
